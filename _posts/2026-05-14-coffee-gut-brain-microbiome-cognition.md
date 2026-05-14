@@ -111,6 +111,17 @@ lang: ko
 
 ---
 
+---
+
+## 관련 제품
+
+- [디카페인 커피 원두](https://link.coupang.com/a/dKer43uNAi) — 연구 결과: 디카페인 커피가 카페인 커피 대비 기억력 향상과 연관
+- [커피 원두](https://link.coupang.com/a/dKetskfNbU) — 하루 3~5잔 적정 음용량 기준, EFSA 권장 범위 내 품질 원두
+- [종근당 락토핏 생유산균 골드](https://link.coupang.com/a/dKeqpnmJXg) — 이번 연구에서 장내 다양성과 연관된 Lactobacillus 포함 프로바이오틱스
+
+> *이 포스팅은 쿠팡 파트너스 활동의 일환으로, 이에 따른 일정액의 수수료를 제공받습니다.*
+
+
 *본 콘텐츠는 건강 정보 제공 목적이며, 의학적 진단이나 치료를 대체하지 않습니다. 건강에 관한 결정은 반드시 전문 의료인과 상담 후 내려주세요.*
 
 **출처**: Boscaini S, et al. "Habitual coffee intake shapes the gut microbiome and modifies host physiology and cognition." *Nature Communications* 17, 2026. DOI: 10.1038/s41467-026-71264-8
