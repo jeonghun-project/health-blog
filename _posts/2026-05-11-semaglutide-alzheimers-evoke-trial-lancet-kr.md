@@ -1,8 +1,8 @@
 ---
-title: "오젬픽이 알츠하이머를 못 막은 이유 — Lancet 3,808명 임상의 충격 결과"
+title: "오젬픽으로 치매 예방? 3,800명 임상 결과는 '실패' — 그래도 희망은 있다"
 date: "2026-05-11"
-description: "2025년 11월 Lancet에 발표된 EVOKE/EVOKE+ Phase 3 임상(3,808명)에서 경구 세마글루타이드가 알츠하이머 인지 저하를 늦추는 데 실패했습니다. 바이오마커 개선이 임상 효과로 이어지지 않은 이유, 리라글루타이드의 반전 결과, 한국 초고령사회 시사점까지 분석합니다."
-tags: ["오젬픽", "알츠하이머", "치매 예방", "GLP-1", "세마글루타이드", "EVOKE 임상", "초고령사회"]
+description: "다이어트약 오젬픽이 치매도 막을까? 3,800명 대규모 임상에서 실패했지만, 다른 GLP-1 약에서 희망이 보입니다. 결과와 의미를 정리합니다."
+tags: ["치매 예방", "알츠하이머 치료", "오젬픽 효과", "치매 약", "오젬픽 부작용", "치매 초기증상", "GLP-1 치매"]
 image: "https://raw.githubusercontent.com/jeonghun-project/health-blog/main/assets/images/2026-05-11-semaglutide-alzheimers-evoke-trial-lancet-kr-header.png"
 ---
 
