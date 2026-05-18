@@ -1,8 +1,8 @@
 ---
-title: "오젬픽으로 치매 예방? 3,800명 임상 결과는 '실패' — 그래도 희망은 있다"
+title: "오젬픽으로 치매 예방? 3,800명 임상 결과는 실패 — 그래도 희망은 있다"
 date: "2026-05-11"
-description: "다이어트약 오젬픽이 치매도 막을까? 3,800명 대규모 임상에서 실패했지만, 다른 GLP-1 약에서 희망이 보입니다. 결과와 의미를 정리합니다."
-tags: ["치매 예방", "알츠하이머 치료", "오젬픽 효과", "치매 약", "오젬픽 부작용", "치매 초기증상", "GLP-1 치매"]
+description: "오젬픽(세마글루타이드)이 알츠하이머 치매를 막을 수 있는지 시험한 역대 최대 임상 결과. 왜 실패했는지, 다음 가능성은 무엇인지 분석합니다."
+tags: ["health", "치매 예방", "알츠하이머 치료", "오젬픽 효과", "치매 약", "치매 초기증상"]
 image: "https://raw.githubusercontent.com/jeonghun-project/health-blog/main/assets/images/2026-05-11-semaglutide-alzheimers-evoke-trial-lancet-kr-header.png"
 ---
 
