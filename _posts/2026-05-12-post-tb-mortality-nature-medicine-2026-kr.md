@@ -1,8 +1,8 @@
 ---
 title: "결핵 완치됐는데 왜 계속 아플까 — 완치 후에도 14년간 사망 위험 2배"
 date: "2026-05-12"
-description: "결핵 완치 판정 받았는데 왜 몸이 안 좋을까? 18만 명 추적 연구에서 완치 후에도 14년간 사망 위험이 2배라는 결과가 나왔습니다."
-tags: ["결핵 완치 후", "결핵 후유증", "결핵 치료", "결핵 증상", "결핵 완치 기간", "폐건강", "결핵 검사"]
+description: "결핵이 완치돼도 14년간 사망 위험이 2배라는 대규모 연구 결과. 결핵 후유증의 원인과 완치 후 관리법을 정리합니다."
+tags: ["health", "결핵 완치 후", "결핵 후유증", "결핵 치료", "결핵 증상", "폐 건강"]
 image: "https://raw.githubusercontent.com/jeonghun-project/health-blog/main/assets/images/2026-05-12-tb-header.png"
 ---
 
