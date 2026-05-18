@@ -1,8 +1,8 @@
 ---
-title: "결핵 완치 후에도 14년간 사망 위험 2배: Nature Medicine 충격 연구"
+title: "결핵 완치됐는데 왜 계속 아플까 — 완치 후에도 14년간 사망 위험 2배"
 date: "2026-05-12"
-description: "Nature Medicine 2026년 연구: 185,921명 분석 결과, 결핵 완치 후에도 14년간 사망 위험이 1.77배 높습니다. 암·심혈관·내분비 모두 위험 상승. OECD 결핵 2위 한국의 완치자 관리 공백을 짚었습니다."
-tags: ["결핵", "결핵완치", "포스트결핵", "결핵사망위험", "한국결핵", "폐건강", "결핵관리"]
+description: "결핵 완치 판정 받았는데 왜 몸이 안 좋을까? 18만 명 추적 연구에서 완치 후에도 14년간 사망 위험이 2배라는 결과가 나왔습니다."
+tags: ["결핵 완치 후", "결핵 후유증", "결핵 치료", "결핵 증상", "결핵 완치 기간", "폐건강", "결핵 검사"]
 image: "https://raw.githubusercontent.com/jeonghun-project/health-blog/main/assets/images/2026-05-12-tb-header.png"
 ---
 
